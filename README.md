@@ -15,7 +15,7 @@ $ meteor npm install
 $ npm run start
 ```
 
-###### Access web app at:
+###### Access web app on a browser at:
 ```
 localhost:3000
 ```
