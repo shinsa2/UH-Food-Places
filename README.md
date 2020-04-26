@@ -5,6 +5,13 @@
 cd /app
 npm run start
 ```
+
+###### If you can't start, use:
+```
+meteor npm install
+```
+before trying to run
+
 ###### Use one of the pre-made accounts to sign in the web app or create your own:
 ```
 admin login: admin@foo.com
