@@ -23,7 +23,7 @@ localhost:3000
 ###### Use one of the pre-made accounts to sign in the web app or create your own:
 ```
 admin login: admin@foo.com
-admin password: changme
+admin password: changeme
 
 or 
 
