@@ -15,7 +15,10 @@ $ meteor npm install
 $ npm run start
 ```
 
-###### Access web app at localhost:3000
+###### Access web app at:
+```
+localhost:3000
+```
 
 ###### Use one of the pre-made accounts to sign in the web app or create your own:
 ```
