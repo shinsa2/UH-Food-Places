@@ -2,15 +2,18 @@
 
 ###### Go to the app directory then start the program:
 ```
-cd /app
-npm run start
+$ cd /app
+$ npm run start
 ```
 
 ###### If you can't start, use:
 ```
-meteor npm install
+$ meteor npm install
 ```
-###### before trying to run.
+###### before trying to
+```
+$ npm run start
+```
 
 
 ###### Use one of the pre-made accounts to sign in the web app or create your own:
