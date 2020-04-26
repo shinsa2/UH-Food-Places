@@ -5,7 +5,7 @@
 cd /app
 npm run start
 ```
-###### Use one of the pre-made accounts or create your own:
+###### Use one of the pre-made accounts to sign in the web app or create your own:
 ```
 admin login: admin@foo.com
 admin password: changme
