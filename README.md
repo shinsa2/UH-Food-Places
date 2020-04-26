@@ -10,7 +10,8 @@ npm run start
 ```
 meteor npm install
 ```
-before trying to run
+###### before trying to run.
+
 
 ###### Use one of the pre-made accounts to sign in the web app or create your own:
 ```
