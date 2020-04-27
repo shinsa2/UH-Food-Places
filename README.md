@@ -2,6 +2,8 @@
 
 ## Must have node.js, chocolatey, meteor installed.
 
+###### There is an issue where cloning from github won't let you use the settings.development.json file properly unless you already have admin and john accounts set up in meteor; settings.development.json won't load with meteor properly otherwise (issue with setting up default accounts, aka admin and john accounts). Alteration for it to work is possible but I will omit those instructions.
+
 ###### Using your favorite IDE terminal or machine terminal, go to the app directory then start the program:
 ```
 $ cd /app
