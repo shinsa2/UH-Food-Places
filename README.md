@@ -1,6 +1,8 @@
 # UH Food Places
 
-###### Using your favorite IDE terminal or mac/linux terminal, go to the app directory then start the program:
+## Must have node.js, chocolatey, meteor installed.
+
+###### Using your favorite IDE terminal or machine terminal, go to the app directory then start the program:
 ```
 $ cd /app
 $ npm run start
