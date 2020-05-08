@@ -1,3 +1,8 @@
+/** Dennis Kim added the ReviewSchema
+    Added values for ReviewSchema to create a structure of information in the review collection.
+    See function comments below.
+*/
+
 import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
 import { Tracker } from 'meteor/tracker';

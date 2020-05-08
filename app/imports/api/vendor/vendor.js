@@ -1,3 +1,8 @@
+/** Dennis Kim added the VendorSchema
+    Added values for VendorSchema to create a structure of information for the Vendors collection.
+    See function comments below.
+*/
+
 import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
 import { Tracker } from 'meteor/tracker';

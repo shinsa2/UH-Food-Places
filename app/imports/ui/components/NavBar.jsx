@@ -1,3 +1,9 @@
+/** Dennis Kim added the navbar
+    NavBar has a link for the home page (click on UH Food Places),
+    shows VENDORS for all users, ADD VENDORS for admin users,
+    and a sign in/sign up in the top right corner via dropdown menu.
+*/
+
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Meteor } from 'meteor/meteor';

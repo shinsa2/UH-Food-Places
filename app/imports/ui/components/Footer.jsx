@@ -1,3 +1,8 @@
+/** Dennis Kim added this .jsx
+    With some inline css for the footer specifically,
+    has some non-important information for the footer of the website.
+*/
+
 import React from 'react';
 import { Grid, Icon } from 'semantic-ui-react';
 

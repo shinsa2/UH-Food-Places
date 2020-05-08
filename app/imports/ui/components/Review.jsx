@@ -1,3 +1,7 @@
+/** Dennis Kim added the review section
+    Renders a comment section for comments that are left by users.
+*/
+
 import React from 'react';
 import { Comment } from 'semantic-ui-react';
 import PropTypes from 'prop-types';

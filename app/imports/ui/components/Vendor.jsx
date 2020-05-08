@@ -1,3 +1,9 @@
+/** Dennis Kim added this .jsx
+    Delete button confirmation with bert alerts for success or failure of deletion.
+    Renders vendors as cards with information loaded from .json and newly added vendors from the
+    VendorSchema in ../vendor/vendor.js
+*/
+
 import React from 'react';
 import { Button, Card, Image } from 'semantic-ui-react';
 import PropTypes from 'prop-types';

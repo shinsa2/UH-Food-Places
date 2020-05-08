@@ -1,3 +1,8 @@
+/** Dennis Kim added css
+    css file is generally just for the header/footer fonts and colors, website font style,
+    homepage background image, and for links (if they're visited or not, hovering mouse over links changes
+    color of link)
+*/
 a:link {
   color: #FF2200;
 }

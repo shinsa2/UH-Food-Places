@@ -1,3 +1,8 @@
+/** Dennis Kim added the UserSchema
+    Added values for UserSchema to create a structure of information for the Users collection.
+    See function comments below.
+*/
+
 import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
 import { Tracker } from 'meteor/tracker';

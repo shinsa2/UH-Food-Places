@@ -1,3 +1,8 @@
+/** Dennis Kim added this .jsx
+    Allows user to add a review via form to a vendor, has a bert alert for a success or fail.
+    Submits data to Reviews.
+*/
+
 import React from 'react';
 import { Reviews, ReviewSchema } from '/imports/api/review/review';
 import { Segment } from 'semantic-ui-react';

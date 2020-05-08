@@ -1,3 +1,7 @@
+/** Dennis Kim updated vendor.js code for adding reviews too.
+    Adds the review information from the data inserted for specific vendor.
+*/
+
 import { Meteor } from 'meteor/meteor';
 import { Reviews } from '../../api/review/review.js';
 
